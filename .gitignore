@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+prediction_images/
+src/storage/
+src/notebooks/storage/
+src/saved_models/Train_Val_Loss_Graphs/
+
 # C extensions
 *.so
 
